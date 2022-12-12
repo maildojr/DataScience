@@ -1,3 +1,8 @@
-## Projetos de Data Science
+## Project of Data Science
 
-### Regressão Linear
+### Linear Regression
+
+
+### 1. Predict Beer Consumption
+
+### 2. House Pricing
